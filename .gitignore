@@ -460,3 +460,6 @@
 /.vs/SimpleBlackJackApi/FileContentIndex/ffca13aa-4b25-4f26-907c-bf8645db8801.vsidx
 /.vs/SimpleBlackJackApi/FileContentIndex/read.lock
 /.vs/SimpleBlackJackApi/v17/.suo
+/.vs/SimpleBlackJackApi/DesignTimeBuild/.dtbcache.v2
+/.vs/SimpleBlackJackApi/FileContentIndex/2441c6f8-c4a6-4fd7-9cb7-6814dd78ae1a.vsidx
+/SimpleBlackJackApi/obj/Release/net6.0/SimpleBlackJackApi.csproj.BuildWithSkipAnalyzers
